@@ -28,7 +28,7 @@ Here are some examples of terminal commands that come up often in development. K
 |[**\[TAB\]**](#tab)| autofill your current command/args
 
 ## Git Tutorial
-Here are the steps for creating your own clone of this repository, where you can make your own branch and edits. You can clone and edit locally without a Github account, but in order to push to the repository, you must create an account. Please make sure not to skip any steps!
+Here are the steps for creating your own clone of this repository, where you can make your own branch and edits. You can clone and edit locally without a Github account, but in order to push to the repository, you must create an account. Please make sure not to skip any steps! LOL
 
 ### Step 1: **Fork the repository**
 This repository belongs to a personal account, and contributions cannot be made by anyone except those directly added to the project. Since there are many unknown collaborators, it is best for you to make a copy of this remote repository, which is called a **fork**. This will be yours and you can change it in whatever way you please!
